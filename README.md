@@ -3,7 +3,7 @@
 If you handle multiple dependencies in your project is better to add a *conanfile.txt*
 
     [requires]
-    TBB/2019_U4@conan/stable
+    TBB/2019_U4@zinnion/stable
 
     [generators]
     txt
